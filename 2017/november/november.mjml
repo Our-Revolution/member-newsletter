@@ -1,0 +1,293 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      p { margin-top: 15px; color:#4a4a4a; } body { border: 1px solid #ccc; color:#4a4a4a; } a { color: #218fff; font-weight: 700; text-decoration: underline; } .blue a, .blue a:visited, .blue a:active, .blue a:hover, .blue a:focus { color: white !important;
+      } ul { padding-left: 30px; margin: 0; } p { margin-top: 10px; } .footer { color:#4a4a4a; font-family:"Lato", sans-serif; }
+    </mj-style>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato:400,700" />
+    <mj-attributes>
+      <mj-all font-family="Lato, Helvetica, Arial, sans-serif" />
+      <mj-text font-weight="400" font-size="16" color="#4A4A4A" line-height="140%" />
+      <mj-section padding="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f5f5f5" padding="15">
+    <mj-container background-color="#f5f5f5">
+      <!-- Edition -->
+      <mj-wrapper background-color="#f5f5f5" padding="0">
+        <mj-section background-color="#218fff" padding="40 0" border-radius="3 3 0 0">
+          <mj-column>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/member-newsletter-logo.png" width="200"></mj-image>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#0C56A0" padding="10">
+          <mj-column>
+            <mj-text padding-top="0" padding-bottom="0" align="center" font-size="18" color="#FFFFFF" font-weight="400">Special Edition: November Election 2017</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFF" border-radius="3">
+          <mj-column>
+            <mj-text align="center" font-size="20" color="#4A4A4A" font-weight="700" line-height="140%" padding="25">
+              Our Revolution is excited to share the <em>Special Edition Membership Newsletter: November Election 2017</em>. We hope you enjoy!
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Get Involved -->
+      <mj-wrapper background-color="#f5f5f5" padding="15 0" css-class="blue">
+        <mj-section padding="10 0" background-color="#218fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#FFF" font-weight="700" padding-bottom="0">
+              Get Involved
+            </mj-text>
+
+            <mj-text align="left" font-size="14" color="#FFF" font-weight="400" padding-top="0">
+              <p style="color:#fff;">
+                As we mentioned on last week’s membership call, our work is far from done. This month we are launching several exciting new campaigns, and we need you to join us. Below is information for each of these initiatives and how you can get involved:
+
+              </p>
+              <ul style="color:#fff;">
+                <li>
+                  <a href="http://fightforourdream.com?source=em171129" style="color:#fff;" target="_blank">#OurDream</a> - In the aftermath of President Trump's repeal of the Deferred Action for Childhood Arrivals, otherwise known as DACA, undocumented
+                  youth and Dreamers are leading the campaign to pass a clean DREAM Act in Congress. To get involved visit our <a href="http://fightforourdream.com?source=em171129" style="color:#fff;" target="_blank">website</a>.
+                </li>
+                <li>
+                  <a href="https://go.ourrevolution.com/page/content/tax-plan/?source=em171129" style="color:#fff;" target="_blank">The Republican's Tax Reform Plan</a> - The Republicans are doing everything in their power to push through a tax plan that
+                  offers massive tax breaks to corporations and the wealthy. This plan does nothing for the middle class and working families, in fact, anyone making more than $75,000 annually will see an increase in their taxes by 2027. <a href="https://go.ourrevolution.com/page/content/tax-plan/?source=em171129"
+                    style="color:#fff;" target="_blank">We must fight back</a>.
+
+                </li>
+                <li>
+                  Learn how to broadcast and record meetings and events using Uphill Media to support local candidates, organize, and grow your group. Get started at <a href="https://www.uphillmedia.org/work-with-us.html" style="color:#fff;" target="_blank">uphillmedia.org</a>.
+                </li>
+              </ul>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- A New Generation of Progressive Leaders -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">
+              A New Generation of Progressive Leaders
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>
+                November has been a historic month for Our Revolution. Alongside local groups and volunteers across the country, we worked to elect a new generation of progressive leaders.
+              </p>
+              <p>
+                Twenty-seven Our Revolution endorsed candidates won their elections and brought the political revolution to almost every corner of the United States. In Virginia, Lee Carter defeated Virginia’s GOP Majority Whip by over 1,500 votes and Elizabeth Guzman
+                became one of the first Latinas elected to Virginia’s House of Delegates. In Minnesota, Andrea Jenkins became the first out transgender woman elected to Minneapolis City Council. In Maine, for the first time ever, voters passed a ballot
+                measure to expand Medicaid.
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Our Revolution Sweeps Somerville -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="10">
+              Our Revolution Sweeps Somerville
+            </mj-text>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/newsletter/or-somerville.jpg"></mj-image>
+            <mj-text font-size="12" font-style="italic">Our Revolution Somerville</mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Every Vote Counts -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">
+              Every Vote Counts
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>
+                Local groups, State Organizing Committees, and distributed volunteers worked in tandem to ensure every voter knew their polling place, voting hours, and who was on their ballot. <strong>Our Revolution’s amazing volunteers across the country put in countless hours
+                during the November election cycle to make over 132,000 calls and send over 373,000 individual text messages.</strong> Thousands of voters got out and voted because of the hard work and dedication of Our Revolution’s volunteers - thank
+                you for all that you do.
+              </p>
+              <p>
+                We have seen the direct results of the hard work of our volunteers and Our Revolution groups across the country, especially in the races won by tight margins. Here are just a few of the Our Revolution endorsed candidates who won by less than 1,000 votes:
+              </p>
+            </mj-text>
+            <mj-table>
+              <tr style="border-bottom:1px solid #ecedee;text-align:left;padding:15px 0;">
+                <th style="padding: 0 15px 0 0;">Candidate</th>
+                <th style="padding: 0 15px;">Position</th>
+                <th style="padding: 0 0 0 15px;">Margin of Victory</th>
+              </tr>
+              <tr>
+                <td style="padding: 0 15px 0 0;">
+                  <strong>Ted Terry</strong>
+                </td>
+                <td style="padding: 0 15px;">
+                  Mayor of Clarkston, GA
+                </td>
+                <td style="padding: 0 0 0 15px;">
+                  139 votes
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 0 15px 0 0;">
+                  <strong>Anita Prizio</strong>
+                </td>
+                <td style="padding: 0 15px;">
+                  Allegheny County Council, PA
+                </td>
+                <td style="padding: 0 0 0 15px;">
+                  205 votes
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 0 15px 0 0;">
+                  <strong>JT Scott</strong>
+                </td>
+                <td style="padding: 0 15px;">
+                  Somerville Alderman, MA
+                </td>
+                <td style="padding: 0 0 0 15px;">
+                  380 votes
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 0 15px 0 0;">
+                  <strong>Ben Ewen-Campen</strong>
+                </td>
+                <td style="padding: 0 15px;">
+                  Somerville Alderman, MA
+                </td>
+                <td style="padding: 0 0 0 15px;">
+                  457 votes
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 0 15px 0 0;">
+                  <strong>Jasmin Santana</strong>
+                </td>
+                <td style="padding: 0 15px;">
+                  Cleveland City Council, OH
+                </td>
+                <td style="padding: 0 0 0 15px;">
+                  48 votes
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 0 15px 0 0;">
+                  <strong>Matt McLaughlin</strong>
+                </td>
+                <td style="padding: 0 15px;">
+                  Somerville Alderman, MA
+                </td>
+                <td style="padding: 0 0 0 15px;">
+                  740 votes
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 0 15px 0 0;">
+                  <strong>Mik Pappas</strong>
+                </td>
+                <td style="padding: 0 15px;">
+                  Allegheny County District Magistrate, PA
+                </td>
+                <td style="padding: 0 0 0 15px;">
+                  849 votes
+                </td>
+              </tr>
+              <tr>
+                <td style="padding: 0 15px 0 0;">
+                  <strong>Anna Payne</strong>
+                </td>
+                <td style="padding: 0 15px;">
+                  Middletown Township Auditor, PA
+                </td>
+                <td style="padding: 0 0 0 15px;">
+                  909 votes
+                </td>
+              </tr>
+            </mj-table>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>
+                For the full list of Our Revolution’s 2017 election results, click <a href="https://ourrevolution.com/2017-elections-results/?source=em171129" target="_blank">here</a>.
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Store -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>
+                Our Revolution's store of union-made swag is now open! Visit <a href="https://shop.ourrevolution.com/?source=em171129" target="_blank">https://shop.ourrevolution.com/</a>
+              </p>
+            </mj-text>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/newsletter/shop-its-here.png" href="https://shop.ourrevolution.com/?source=em171129"></mj-image>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- In the Press -->
+      <mj-wrapper background-color="#f5f5f5" padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">In the Press</mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0">
+              <p>
+                The Nation <a href="https://www.thenation.com/article/the-secret-to-progressives-electoral-success/" target="_blank">credited</a> Somerville's local Our Revolution chapter with doing "the real work" of elections. The Huffington Post
+                <a
+                  href="https://www.huffingtonpost.com/entry/lee-carter-delegate-democratic-socialist_us_5a074548e4b05673aa5997fd" target="_blank">covered</a> Lee Carter's victory in Virginia noting the "20,000 doors his campaign reached in the final four days before the election." The New Republic <a href="https://newrepublic.com/article/145739/left-great-election-night-will-democrats-take-advantage"
+                    target="_blank">highlighted</a> the "slew of local candidates backed by Our Revolution" who won "city council seats in Knoxville, Tennessee; Charlottesville, Virginia, and Somerville, Massachusetts."
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Win or Lose -->
+      <mj-wrapper background-color="#f5f5f5" padding="0 0 15 0" css-class="blue">
+        <mj-section padding="10 0" background-color="#218fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#FFF" font-weight="700" padding-bottom="0">
+              Win or Lose
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#FFF" font-weight="400" padding-top="0">
+              <p style="color:#fff;">
+                <em>“We are building sustainable grassroots power in communities, win or lose.”</em><br /> &nbsp;&nbsp;&nbsp;&nbsp;&mdash; David Lynch, Our Revolution Volunteer
+              </p>
+              <p style="color:#fff;">
+                Not all victories are appropriately measured just by the results on election night. So many of our candidates created real grassroots movements in their communities by introducing new ideas and providing voters with an alternative to establishment politicians.
+                These movements are pivotal to long-term change. Win or lose, the progress we have made this year is ground-breaking. Together we will continue to work to create a political revolution that will last and create needed change for all.
+              </p>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!--CTA Section -->
+      <mj-wrapper background-color="#f5f5f5" padding="0 0 15">
+        <mj-section background-color="#218fff" padding="15 0" border-radius="3">
+          <mj-column>
+            <mj-text align="center" font-size="24" color="#fff" font-weight="700" padding-bottom="0">Share this newsletter.</mj-text>
+
+            <mj-social mode="horizontal" display="twitter facebook" facebook-href="https://ourrevolution.com/our-revolution-member-newsletter-november/" twitter-href="Check%20out%20Our%20Revolution%27s%20Member%20Newsletter%20-%20a%20guide%20to%20the%20political%20revolution%2C%20and%20how%20you%20can%20be%20a%20part%20of%20it.%20https%3A%2F%2Fourrevolution.com%2Four-revolution-member-newsletter-november%2F"
+              color="#fff" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>

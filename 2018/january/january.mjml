@@ -1,0 +1,180 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      p { margin-top: 15px; color:#4a4a4a; } body { border: 1px solid #ccc; color:#4a4a4a; } a { color: #218fff; font-weight: 700; text-decoration: underline; } .blue a, .blue a:visited, .blue a:active, .blue a:hover, .blue a:focus { color: white !important;
+      } ul { padding-left: 30px; margin: 0; } p { margin-top: 10px; } .footer { color:#4a4a4a; font-family:"Lato", sans-serif; }
+    </mj-style>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato:400,700" />
+    <mj-attributes>
+      <mj-all font-family="Lato, Helvetica, Arial, sans-serif" />
+      <mj-text font-weight="400" font-size="16" color="#4A4A4A" line-height="140%" />
+      <mj-section padding="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f5f5f5" padding="15">
+    <mj-container background-color="#f5f5f5">
+      <!-- Edition -->
+      <mj-wrapper background-color="#f5f5f5" padding="0">
+        <mj-section background-color="#218fff" padding="40 0" border-radius="3 3 0 0">
+          <mj-column>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/member-newsletter-logo.png" width="200"></mj-image>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#0C56A0" padding="10">
+          <mj-column>
+            <mj-text padding-top="0" padding-bottom="0" align="center" font-size="18" color="#FFFFFF" font-weight="400">January 2018</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFF" border-radius="3">
+          <mj-column>
+            <mj-text align="center" font-size="16" color="#4A4A4A" font-weight="700" line-height="140%" padding="25">
+              "When machines and computers, profit motives and property rights are considered more important than people, the giant triplets of racism, extreme materialism and militarism are incapable of being conquered." – Martin Luther King, Jr., "Revolution of Values," 1967
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Get Involved -->
+      <mj-wrapper background-color="#f5f5f5" padding="15 0" css-class="blue">
+        <mj-section padding="10 0" background-color="#218fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#FFF" font-weight="700" padding-bottom="0">
+              Get Involved
+            </mj-text>
+
+            <mj-text align="left" font-size="14" color="#FFF" font-weight="400" padding-top="0">
+              <ul style="color:#fff;">
+                <li>
+                  <a href="https://go.ourrevolution.com/page/content/defend-daca?source=em180126" style="color:#fff;" target="_blank">Call for DREAM</a> - Many Democrats voted with Republicans to reopen the government without providing permanent protected status for the 800,000 recipients of DACA, otherwise known as Dreamers. Call your Senators and tell them to <strong>pledge</strong> to vote against the Feb. 8 spending bill unless it includes a clean DREAM Act.
+                </li>
+                <li>
+                  <a href="http://myaccount.maestroconference.com/conference/register/4UQECSCMSEKUTQE" style="color:#fff;" target="_blank">Our Revolution Campus Launch</a> - RSVP for the Our Revolution Campus launch call on January 28, 2018.
+                </li>
+                <li>
+                  <a href="https://go.ourrevolution.com/page/s/membership-package?source=em180126" style="color:#fff;" target="_blank">Sign up to receive your Membership Package</a> - If you haven’t already, sign up to receive your membership package today!
+                </li>
+                <li>
+                  <a href="https://soundcloud.com/our-revolution/our-revolution-membership-call-january-2018" style="color:#fff;" target="_blank">Listen to this month’s Membership Call</a> - Catch up on what was discussed during January’s Membership Call.
+                </li>
+              </ul>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Our Revolution in the Press -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">
+              Our Revolution in the Press
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>
+                The Unity Reform Commission met this past month to discuss the Democratic presidential nomination process. Although the odds were stacked against us, the commission made great strides in leveling the playing field.  According to the Huffington Post, they “called for reducing the number of notoriously undemocratic superdelegates to the national convention from 712 to about 300, while the only democratic number would be zero.” <a href="https://www.huffingtonpost.com/entry/battle-for-democratic-party-after-the-unity-reform_us_5a2e6ed9e4b022ec613b8448" target="_blank">Read more here</a>. Now, as we enter 2018, it’s time to fight for the revolution. In Maryland, candidate <a href="https://www.washingtonpost.com/local/md-politics/ben-jealous-endorsed-by-progressive-maryland-cwa-in-md-governors-race/2017/12/12/6ea741a0-df4e-11e7-8679-a9728984779c_story.html" target="_blank">Ben Jealous</a> received endorsements from Communications Workers of America, Progressive Maryland, and more--making it seem all the more likely that we will have a Berniecrat in the Governor's seat. And in <a href="http://www.houstonchronicle.com/news/houston-texas/houston/article/Bernie-Sanders-movement-changing-Democratic-12460650.php" target="_blank">Texas</a>, Our Revolution is endorsing and campaigning for candidates up and down the ballot causing real progressive change. In Philadelphia, new district attorney <a href="http://www.latimes.com/nation/la-na-philadelphia-larry-krasner-20171231-story.html" target="_blank">Larry Krasner</a> is shaking up the establishment as he lives up to the true meaning of our revolution. The chronicle made a good point: “Some say Krasner's win may signal a broader shift to come in 2018.” Let’s make it happen!
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Local Group Highlights -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="10">
+              Local Group Highlights
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>Western Maryland Our Revolution welcomed Our Revolution President Nina Turner to discuss how we can democratize the Democrats. Senator Turner spoke to over 100 attendees about the work Our Revolution is doing to reform the Democratic Party from within. She offered her insider’s account of her work on the DNC’s Unity Reform Commission and provided meaningful strategies for volunteers to get involved.</p>
+            </mj-text>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/newsletter/snt-maryland%20%281%29.jpg"></mj-image>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>Senator Turner was also joined by Ben Jealous, our endorsed candidate for Governor of Maryland. Ben talked about how we can collectively create the circumstances that lead to a revolution. Bringing people together, identifying common goals, and building solidarity are just a few of the principles that he has been implementing in his campaign. He also emphasized how people power can always outweigh moneyed interests, focusing on the ways in which he has run his own campaign through grassroots organizing. Ben’s campaign brings the foundational principles of organizing and social movements together with the modern technology available today to build an effective campaign strategy that focuses on everyday and working people. Jealous is running a true people-powered campaign.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- The One-stop Shop for Organizing -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">
+              The One-stop Shop for Organizing
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>
+                The Our Revolution Organizing Hub centralizes the tools, resources, and guides group leaders need--and is easy to use. Instead of wasting time searching for a document on the Our Revolution website, group leaders can now use the Organizing Hub to do the real work like reaching out to people and making a difference. In collaboration with group leaders, organizers, and the Our Revolution team, we are striving to close the gaps that exist and eliminate the tedious search for resources and replace them with meaningful activities. Right now the Organizing Hub is meant for group leaders, but we are continuing to add new features and in the future the Organizing Hub will work for all of Our Revolution’s members.
+              </p>
+              <p>To read more about the Organizing Hub, <a href="https://ourrevolution.com/docs/" target="_blank">click here</a>.</p>
+            </mj-text>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/newsletter/hub-screenshot.png"></mj-image>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Our Revolution in the Press -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">
+              Medicare for All National Town Hall
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>
+                Senator Sanders hosted three panels focusing on the health care crisis in the United States, the economic benefits of implementing Medicare for All, and an analysis from international health care experts answering questions directly from the audience. 1.1 million people watched as the panelists discussed the ways in which a Medicare for All system would actually cost the United States tremendously less than our current system. The United States presently spends $9,237 on health care per person while offering no guarantee of insurance. Norway, on the other hand, spends $6,537 per person, offers universal health care to all of their citizens, and allows for patients to choose whichever doctor or specialist works best for them.
+              </p>
+              <p>
+                <a href="https://www.youtube.com/watch?v=1gfWv76Ab_I" target="_blank">To view the livestream please click here.</a>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Our Revolution Campus Launch -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">
+              Our Revolution Campus Launch
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>
+                Our Revolution is launching our On Campus Program--just in time for the 2018 midterm elections. Just as Bernie Sanders started his career organizing students against segregation in Chicago, it’s time to pass the baton to the current students organizing for issues such as medicare-for-all, a 15-dollar-minimum-wage, and increasing workers rights, to help them on their organizing battles. <a href="http://myaccount.maestroconference.com/conference/register/4UQECSCMSEKUTQE" target="_blank">RSVP to the Our Revolution Campus Launch here.</a>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Las Vegas Women's March -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="20">
+              Las Vegas Women's March
+            </mj-text>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/newsletter/womens-march-collage.png" width="600"></mj-image>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!--CTA Section -->
+      <mj-wrapper background-color="#f5f5f5" padding="0 0 15">
+        <mj-section background-color="#218fff" padding="15 0" border-radius="3">
+          <mj-column>
+            <mj-text align="center" font-size="24" color="#fff" font-weight="700" padding-bottom="0">Share this newsletter.</mj-text>
+
+            <mj-social mode="horizontal" display="twitter facebook" facebook-href="https://ourrevolution.com/our-revolution-member-newsletter-january-2018/" twitter-href="Check%20out%20Our%20Revolution%27s%20Member%20Newsletter%20-%20a%20guide%20to%20the%20political%20revolution%2C%20and%20how%20you%20can%20be%20a%20part%20of%20it.%20https%3A%2F%2Fourrevolution.com%2Four-revolution-member-newsletter-january-2018%2F"
+              color="#fff" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>

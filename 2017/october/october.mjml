@@ -1,0 +1,217 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      p { margin-top: 15px; color:#4a4a4a; } body { border: 1px solid #ccc; color:#4a4a4a; } a { color: #218fff; font-weight: 700; text-decoration: underline; } .blue a, .blue a:visited, .blue a:active, .blue a:hover, .blue a:focus { color: white !important;
+      } ul { padding-left: 30px; margin: 0; } p { margin-top: 10px; } .footer { color:#4a4a4a; font-family:"Lato", sans-serif; }
+    </mj-style>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato:400,700" />
+    <mj-attributes>
+      <mj-all font-family="Lato, Helvetica, Arial, sans-serif" />
+      <mj-text font-weight="400" font-size="16" color="#4A4A4A" line-height="140%" />
+      <mj-section padding="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f5f5f5" padding="15">
+    <mj-container background-color="#f5f5f5">
+      <!-- Edition -->
+      <mj-wrapper background-color="#f5f5f5" padding="0">
+        <mj-section background-color="#218fff" padding="40 0" border-radius="3 3 0 0">
+          <mj-column>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/member-newsletter-logo.png" width="200"></mj-image>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#0C56A0" padding="10">
+          <mj-column>
+            <mj-text padding-top="0" padding-bottom="0" align="center" font-size="18" color="#FFFFFF" font-weight="400">October 2017</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFF" border-radius="3">
+          <mj-column>
+            <mj-text align="center" font-size="20" color="#4A4A4A" font-weight="700" line-height="140%" padding="25">
+              Your monthly guide to the political revolution and how you can be a part of it.
+            </mj-text>
+
+            <!-- Action Photo 1 -->
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/newsletter/22365458_961048224053874_8317697599400150786_n.jpg" href="https://chicago.suntimes.com/news/democratic-candidates-for-governor-face-off-in-progressive-forum/amp/"></mj-image>
+
+            <!-- Aciton Photo 1 Caption -->
+            <mj-text font-size="12" font-style="italic">
+              Our Revolution groups in Illinois and a coalition of about 50 partner groups came together to organize a progressive forum for gubernatorial candidates, drawing a crowd of over 1,500 to hear all seven candidates speak on issues ranging from single-payer
+              healthcare to implementing a $15 per hour wage.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Get Involved -->
+      <mj-wrapper background-color="#f5f5f5" padding="15 0" css-class="blue">
+        <mj-section padding="10 0" background-color="#218fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#FFF" font-weight="700" padding-bottom="0">
+              Get Involved
+            </mj-text>
+
+            <mj-text align="left" font-size="14" color="#FFF" font-weight="400" padding-top="0">
+              <ul style="color:#fff;">
+                <li>
+                  <a href="https://www.textforbernie.com/?source=em171027" style="color:#fff;" target="_blank">Text &raquo</a> or <a href="https://go.ourrevolution.com/page/content/phonebank/?source=em171027" style="color:#fff;" target="_blank">call &raquo</a>                  voters to turn out to the polls for progressive candidates in November.
+                </li>
+                <li>
+                  <a href="https://ourrevolution.com/groups/?source=em171027" style="color:#fff;" target="_blank">Join &raquo</a> or <a href="https://ourrevolution.com/groups/new/?source=em171027" style="color:#fff;" target="_blank">form &raquo</a> a
+                  local Our Revolution group.
+                </li>
+                <li>
+                  <a href="https://www.amazon.com/gp/registry/wishlist/39U9OY8K8T6EC/ref=cm_sw_em_r_d_g__wb" style="color:#fff;" target="_blank">Help the people of Puerto Rico get
+                  the supplies they need. &raquo</a>
+                </li>
+                <li>
+                  Get involved in the issues that matter most in your local community! Need inspiration? <a href="http://inthesetimes.com/features/keystone_nebraska_climate_activism_jane_kleeb.html" style="color:#fff;" target="_blank">Read about the
+                  alliance between indigenous communities and ranchers who are working
+                  together to stop the Dakota Access Pipeline, and Our Revolution Board
+                  Member Jane Kleeb's role in the movement. &raquo</a>
+                </li>
+                <li>
+                  Missed the monthly call? You can still <a href="https://drive.google.com/open?id=0B1aX_QRyznOkWi1CUWZWU01CcjA"
+                  style="color:#fff;" target="_blank">listen to a recording of it
+                  &raquo</a> or <a href="http://myaccount.maestroconference.com/conference/register/UTTHQCUBXICF3QHU"
+                  style="color:#fff;" target="_blank">RSVP for November's membership
+                  call. &raquo</a>
+                </li>
+              </ul>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Recent Victories -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">Recent Victories</mj-text>
+
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="15">
+              <ul>
+                <li>
+                  Progressive Randall Woodfin won a decisive victory against the incumbent mayor in Birmingham, Alabama.
+                </li>
+                <li>
+                  Tim Keller finished first in the primary election for Mayor of Albuquerque, New Mexico after running a campaign based entirely on small-donor donations. Tim will be advancing to the November runoff.
+                </li>
+                <li>
+                  Former Bernie 2016 State Director, Paul Feeney, won a seat in the Massachusetts State Senate.
+                </li>
+              </ul>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Races to Watch -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">Races to Watch</mj-text>
+
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="15">
+              <p>
+                On November 7, people will be going to the polls across the country to elect new local leaders.
+              </p>
+              <p>
+                <strong>In the 2017 General Election Our Revolution endorsed:</strong>
+              </p>
+              <ul>
+                <li>
+                  59 candidates in eighteen states including,
+                  <ul>
+                    <li>
+                      26 women candidates
+                    </li>
+                    <li>
+                      11 African and African-American candidates
+                    </li>
+                    <li>
+                      7 Latinx candidates
+                    </li>
+                    <li>
+                      4 Asian American/Pacific Islander candidates
+                    </li>
+                    <li>
+                      4 openly LGBTQ candidates
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  1 ballot initiative, the Ohio Drug Price Relief Act
+                </li>
+              </ul>
+              <p>
+                Some of the candidates Our Revolution and our local chapters have endorsed are:
+              </p>
+              <ul>
+                <li>
+                  <a href="https://ourrevolution.com/candidates/will-mbah/?source=em171027" target="_blank"><strong>Will Mbah</strong></a> - an environmental science graduate and students' rights advocate who became a U.S. citizen in 2015. He has pledged
+                  not to take any contributions from wealthy developers as he runs for Alderman in Somerville, Massachusetts.
+                </li>
+                <li>
+                  <a href="https://ourrevolution.com/candidates/ej-zita/?source=em171027" target="_blank"><strong>E.J. Zita</strong></a> - a farmer, teacher and scientist who would user her position to ensure greater accountability and transparency, as
+                  well as to move toward renewable energy and resilience, as Port Commissioner in Olympia, Washington.
+                </li>
+                <li>
+                  <a href="https://ourrevolution.com/candidates/erin-upchurch/?source=em171027" target="_blank"><strong>Erin Upchurch</strong></a> - a social worker, therapist, and community advocate who has dedicated her life to support and advocacy
+                  for underserved and marginalized communities, now running for the Columbus City Board of Education in Ohio.
+                </li>
+                <li>
+                  <a href="https://ourrevolution.com/candidates/lawrence-krasner/?source=em171027" target="_blank"><strong>Larry Krasner</strong></a> - a civil rights attorney who has long led the fight for criminal justice reform and ending the mass
+                  incarceration system, running for District Attorney in Philadelphia.
+                </li>
+              </ul>
+
+
+              <p><a href="https://ourrevolution.com/candidates">Check out the rest of Our Revolution's endorsed candidates here. &raquo</a></p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Inside OR -->
+      <mj-wrapper background-color="#f5f5f5" padding="0 0 15">
+        <mj-section padding="0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/newsletter/Image%20uploaded%20from%20iOS%20%2828%29.jpg" border-radius="3 3 0 0"></mj-image>
+
+            <mj-text font-size="12" font-style="italic">Our Revolution Board Members Jim Hightower and Senator Nina Turner joined members of Our Revolution in Texas in a five-city tour across the state.</mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <mj-wrapper background-color="#f5f5f5" padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="0">Inside Our Revolution</mj-text>
+
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0">
+              <p>One of the most effective ways of convincing voters to turn out for progressive candidates and causes is to have a one-to-one conversation. At Our Revolution we have contact information for a vast network of progressives across the country
+                - even in deeply conservative districts. Anyone with a phone and a computer can participate in voter outreach. Just a 2-3 minute call can inform a voter who already shares our values about a candidate or ballot measure in their area which
+                they would be likely to support. Remember, Bernie won his first Mayoral election by just 10 votes. <a href="http://ourrev.us/call?source=em171027" target="_blank">Every call you make really does matter! »</a></p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!--CTA Section -->
+      <mj-wrapper background-color="#f5f5f5" padding="0 0 15">
+        <mj-section background-color="#218fff" padding="15 0" border-radius="3">
+          <mj-column>
+            <mj-text align="center" font-size="24" color="#fff" font-weight="700" padding-bottom="0">Share this newsletter.</mj-text>
+
+            <mj-social mode="horizontal" display="twitter facebook" facebook-href="https://ourrevolution.com/our-revolution-member-newsletter-october/" twitter-href="Check%20out%20Our%20Revolution%27s%20Member%20Newsletter%20-%20a%20guide%20to%20the%20political%20revolution%2C%20and%20how%20you%20can%20be%20a%20part%20of%20it.%20https%3A%2F%2Fourrevolution.com%2Four-revolution-member-newsletter-october%2F"
+              color="#fff" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
