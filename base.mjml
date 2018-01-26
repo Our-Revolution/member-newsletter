@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      p { margin-top: 15px; color:#4a4a4a; } body { border: 1px solid #ccc; color:#4a4a4a; } a { color: #218fff; font-weight: 700; text-decoration: underline; } .blue a, .blue a:visited, .blue a:active, .blue a:hover, .blue a:focus { color: white !important;
+      } ul { padding-left: 30px; margin: 0; } p { margin-top: 10px; } .footer { color:#4a4a4a; font-family:"Lato", sans-serif; }
+    </mj-style>
+    <mj-font name="Lato" href="https://fonts.googleapis.com/css?family=Lato:400,700" />
+    <mj-attributes>
+      <mj-all font-family="Lato, Helvetica, Arial, sans-serif" />
+      <mj-text font-weight="400" font-size="16" color="#4A4A4A" line-height="140%" />
+      <mj-section padding="0" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body background-color="#f5f5f5" padding="15">
+    <mj-container background-color="#f5f5f5">
+      <!-- Edition -->
+      <mj-wrapper background-color="#f5f5f5" padding="0">
+        <mj-section background-color="#218fff" padding="40 0" border-radius="3 3 0 0">
+          <mj-column>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/member-newsletter-logo.png" width="200"></mj-image>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#0C56A0" padding="10">
+          <mj-column>
+            <mj-text padding-top="0" padding-bottom="0" align="center" font-size="18" color="#FFFFFF" font-weight="400">Month Year</mj-text>
+          </mj-column>
+        </mj-section>
+
+        <mj-section background-color="#FFF" border-radius="3">
+          <mj-column>
+            <mj-text align="center" font-size="16" color="#4A4A4A" font-weight="700" line-height="140%" padding="25">
+              Nullam id dolor id nibh ultricies vehicula ut id elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Get Involved -->
+      <mj-wrapper background-color="#f5f5f5" padding="15 0" css-class="blue">
+        <mj-section padding="10 0" background-color="#218fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#FFF" font-weight="700" padding-bottom="0">
+              Get Involved
+            </mj-text>
+
+            <mj-text align="left" font-size="14" color="#FFF" font-weight="400" padding-top="0">
+              <ul style="color:#fff;">
+                <li>
+                  <a href="#" style="color:#fff;" target="_blank">Call-to-Action</a> - Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+                </li>
+                <li>
+                  <a href="#" style="color:#fff;" target="_blank">Call-to-Action</a> - Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+                </li>
+                <li>
+                  <a href="#" style="color:#fff;" target="_blank">Call-to-Action</a> - Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
+                </li>
+              </ul>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!-- Content Block -->
+      <mj-wrapper padding="0 0 15">
+        <mj-section padding="10 0" background-color="#fff" border-radius="3">
+          <mj-column>
+            <mj-text align="left" font-size="20" color="#4A4A4A" font-weight="700" padding-bottom="10">
+              Content Block
+            </mj-text>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Aenean lacinia bibendum nulla sed consectetur. Maecenas faucibus mollis interdum. Nullam quis risus eget urna mollis ornare vel eu leo.</p>
+            </mj-text>
+            <mj-image padding="0" src="https://s.bsd.net/ourrev/main/page/-/images/newsletter/snt-maryland%20%281%29.jpg"></mj-image>
+            <mj-text align="left" font-size="14" color="#4A4A4A" font-weight="400" padding-top="0" padding-bottom="0">
+              <p>Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Donec sed odio dui. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+
+      <!--CTA Section -->
+      <mj-wrapper background-color="#f5f5f5" padding="0 0 15">
+        <mj-section background-color="#218fff" padding="15 0" border-radius="3">
+          <mj-column>
+            <mj-text align="center" font-size="24" color="#fff" font-weight="700" padding-bottom="0">Share this newsletter.</mj-text>
+
+            <mj-social mode="horizontal" display="twitter facebook" facebook-href="#" twitter-href="#"
+              color="#fff" />
+          </mj-column>
+        </mj-section>
+      </mj-wrapper>
+    </mj-container>
+  </mj-body>
+</mjml>
